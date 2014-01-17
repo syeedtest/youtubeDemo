@@ -13,6 +13,7 @@ public class Requirement01 {
 		String numerical[] = new String[10000];
 		int resultSize = 0;
 		int numericalSize = 0;
+// hello
 		if (length > 1000 && length < 3000) {
 			String str = "";
 			int testLength = length - 3 - 1600;
